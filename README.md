@@ -1,5 +1,5 @@
 <h1>This is my Virtual Market project created with Flask. </h1>
-Some of the technologies I explored while creating this project include:
+<h2>Some of the technologies I explored while creating this project include:</h2>
 <h3>- User validation and password encryption with Flask and SQL </h3>
 <br>
 <img src="https://user-images.githubusercontent.com/52264361/133038898-ed9171f3-a938-40cf-91c5-6c38c2090e6b.PNG"> 
