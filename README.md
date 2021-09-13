@@ -11,6 +11,4 @@
 <h3>- Relating and updating the database with a user's owned items and balance with SQL</h3>
 <br>
 <img src="https://user-images.githubusercontent.com/52264361/133038891-10960255-c4da-4989-ac04-e772adac26a5.PNG">
-<h3>- Routing users to different HTML templates with Flask</h3>
-<br>
 <img src="https://user-images.githubusercontent.com/52264361/133038894-cb1ce9bd-667a-4c71-af1b-df3655aa5993.PNG">
